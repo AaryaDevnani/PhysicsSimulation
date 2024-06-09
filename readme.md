@@ -1,4 +1,13 @@
 
+<p align="center">
+  <img src="https://github.com/AaryaDevnani/PhysicsSimulation/assets/62675730/33b23749-f5d2-48e3-869c-da2f34e698c9" alt="Physics Sim Demo Gif" style="width: 1024px"/>
+</p>
+<p align="center">
+View Frustum Culling Demo
+</p>
+
+# Prime Engine
+
 Prime Engine is an engine developed by Prof. Artem Kovalovs.
 
 I had taken a course on Game Engine Development under Professor Kovalovs in Spring ‘24.
